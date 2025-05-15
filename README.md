@@ -35,7 +35,7 @@ To run this project locally:
 ```
 bash
 git clone https://github.com/MobileJC/portfolio-ts.git
-cd portfolio-ts
+cd portfolio-ts/portfolio-ts
 npm install
 npm run dev
 ```
