@@ -1,0 +1,16 @@
+// Header to-do
+// Import type ReactNode from React
+// Define interface/class for image and text and button?
+// 1. personal icon for landing page anchor, 
+// 2. div for navbar
+// 2. home text for home section anchor,
+// 3. skills text for skill section anchor,
+// 4. projects text for projects section anchor,
+// 5. div for contact
+// 6. contain github and linkedin icons under contact div
+// 7. Upload fsd_ol resume for CV
+
+// ImageList to-do
+// Import and save images as variables in a const/list
+
+// Projects to-do
